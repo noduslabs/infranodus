@@ -4,7 +4,7 @@
 
 #### [InfraNodus text visualization and analysis app](https://infranodus.com) can represent plain text as a network graph. Every word is a node, every co-occurrence is a connection. We build a graph and apply network science algorithms to get insights about the connections in this graph. So you can encode any text or anything you want into a graph using #hashtags and @mentions). InfraNodus will visualize it, so you can analyze it. 
 
-#### Important: this is the old version of InfraNodus last updated in 2020. The new version with upgraded algorithms and AI capabilities that also includes the [browser extension](https://infranodus.com/extension) and the [Obsidian graph view plugin](https://infranodus.com/obsidian-plugin) is available at [https://infranodus.com](https://infranodus.com). We do not provide support for this open-source version.
+*#### Important: this is the old version of InfraNodus last updated in 2020. The new version with upgraded algorithms and AI capabilities that also includes the [browser extension](https://infranodus.com/extension) and the [Obsidian graph view plugin](https://infranodus.com/obsidian-plugin) is available at [https://infranodus.com](https://infranodus.com). We do not provide support for this open-source version.*
 
 ![](/public/images/infranodus-live-editor.gif "InfraNodus Interface")
 
