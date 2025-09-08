@@ -200,12 +200,9 @@ Also... :)
 
 
 ##
-## GPL License
+##  License
 
-This open source, free software is available under the GNU Affero General Public License version 3 (AGPLv3) license.
-You can make modifications to this code and binaries based on it, but only on the condition that you provide access to those modifications under the same license (including remotely  through a computer network).
-It is provided as is, with no guarantees and no liabilities.
-You can re-use it as long as you keep this notice inside the code.
+The software is available under our custom license available at [License](LICENSE.md)
 
 **You are very welcome to join the project!**
 
